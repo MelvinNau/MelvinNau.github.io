@@ -1,4 +1,3 @@
-### CV
 
 # Introduction
 
