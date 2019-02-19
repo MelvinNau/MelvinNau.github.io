@@ -2,7 +2,7 @@
 
 # Introduction
 
-{% include image.html file="jekyll.png" url="" alt="Image of me" caption="Hi" %}
+{% include image.html file="melvin.png" url="" alt="Image of me" caption="Hi" %}
 # Professional Experience
 
 
