@@ -1,8 +1,8 @@
 ## My personnal CV
 
 # Introduction
-![alt text](https://github.com/MelvinNau/MelvinNau.github.io/blob/master/melvin.png "Picture of me")
 
+{% include image.html file="jekyll.png" url="" alt="Image of me" caption="Hi" %}
 # Professional Experience
 
 
